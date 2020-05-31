@@ -5,15 +5,6 @@
 
 > Various Powershell scripts to manage VMware environment
 
-## Author
-
-👤 **Julien Mousqueton**
-
-* Website: http://www.julienmousqueton.fr
-* Twitter: [@JMousqueton](https://twitter.com/JMousqueton)
-* Github: [@jmousqueton](https://github.com/jmousqueton)
-* LinkedIn: [@julienmousqueton](https://linkedin.com/in/julienmousqueton)
-
 ## 📜 scripts
 
 | Name  | Description |
@@ -21,6 +12,14 @@
 | [PowerCLI - vCenter SnapShot Report.ps1](https://github.com/JMousqueton/PowerShell-VMware/blob/master/PowerCLI%20%E2%80%93%20vCenter%20Snapshot%20Report.ps1) | Report all snapshots by email |
 |   |   |  
 
+## Author
+
+👤 **Julien Mousqueton**
+
+*   Website: [https://www.julienmousqueton.fr](http://www.julienmousqueton.fr)
+*   Twitter: [@JMousqueton](https://twitter.com/JMousqueton)
+*   Github: [@jmousqueton](https://github.com/jmousqueton)
+*   LinkedIn: [@julienmousqueton](https://linkedin.com/in/julienmousqueton)
 
 ## 🤝 Contributing
 
