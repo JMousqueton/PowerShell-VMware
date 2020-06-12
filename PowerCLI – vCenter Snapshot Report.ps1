@@ -16,7 +16,6 @@ $SMTPServer = ""
 $From = ""
 $To = ""
 
-
 #HTML formatting
 $style = '<BODY style="font-family: Arial; font-size: 10pt;"> <TABLE style="border: 1px solid red; border-collapse: collapse;"> <TH style="border: 1px solid; background-color:#4CAF50; color: white; padding: 5px;"> <TD style="border: 1px solid; padding: 5px;">'
 $date = Get-Date -Format "dddd dd/MM/yyyy HH:mm"
