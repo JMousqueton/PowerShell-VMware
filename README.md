@@ -10,7 +10,8 @@
 | Name  | Description |
 |---|---|
 | [PowerCLI - vCenter SnapShot Report.ps1](https://github.com/JMousqueton/PowerShell-VMware/blob/master/PowerCLI%20%E2%80%93%20vCenter%20Snapshot%20Report.ps1) | Report all snapshots by email |
-|   |   |  
+|  [VM_Without_Tag.ps1](https://github.com/JMousqueton/PowerShell-VMware/blob/master/VM_Without_Tag.ps1) | Get the list of VMs without tag. Usefull if you use tag for backup purpose |
+|   |   |
 
 ## Author
 
